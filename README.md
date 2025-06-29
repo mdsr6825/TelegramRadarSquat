@@ -1,4 +1,4 @@
-### Radar Protest Bot 📡
+# Radar Protest Bot 📡
 This is a Python application that connects to the Radar.squat.net API, filters protest-related events happening in Europe, and sends structured updates about upcoming events to a Telegram channel using the Telethon library. Although it can be filtered for other locations, most events on the website are happening in Europe.
 
 ## 🚀 Quick start
